@@ -26,4 +26,4 @@ The part of running this project with a password was done on Python. Used I2C 4x
 ![3](https://user-images.githubusercontent.com/79938189/154845692-77539950-0740-4f23-8ca3-6ecde08c9872.jpeg)
 ![4](https://user-images.githubusercontent.com/79938189/154845693-920e5c38-fac7-4fea-b28b-1e19850b8b8b.jpeg)
 
-
+(Other creator is Tahir Alpay.)
