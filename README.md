@@ -4,7 +4,7 @@ Unlocking the system with hand-tracking
 This code is used to unlock the security alert system. 
 
 Introduce of the Security Alert System:
-The security alert system is designed to make an alarm (send an SMS) when earthquake, fire, flood, chemical gas leak and sudden change in temperature and humidity. 
+The security alert system is designed to make an alarm (sends an SMS) when earthquake, fire, flood, chemical gas leak and sudden change in temperature and humidity. 
 It designed with Arduino and Python.
 
 =} Used: Serial Coomunication (PySerial Libary) and MediaPipe
